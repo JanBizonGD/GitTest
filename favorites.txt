@@ -10,3 +10,4 @@ Movies:
 Star Wars
 Matrix
 Lord of the Rings
+Smurfs
